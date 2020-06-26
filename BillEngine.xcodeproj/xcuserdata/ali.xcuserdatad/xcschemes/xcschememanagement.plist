@@ -6,8 +6,33 @@
 	<dict>
 		<key>BillEngine.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>41864D7B24A4DDEE00B72006</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41864D8424A4DDEE00B72006</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41E53A8424A6954500C3CDCC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41E53A9924A6954700C3CDCC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
