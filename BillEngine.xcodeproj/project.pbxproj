@@ -12,14 +12,14 @@
 		415E430B24A58A0F00824F44 /* ItemRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E430A24A58A0F00824F44 /* ItemRepresentable.swift */; };
 		415E430D24A58B1200824F44 /* DiscountRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E430C24A58B1200824F44 /* DiscountRepresentable.swift */; };
 		415E431124A58D0400824F44 /* BillRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E431024A58D0400824F44 /* BillRepresentable.swift */; };
-		415E431424A58E9C00824F44 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E431324A58E9C00824F44 /* Box.swift */; };
-		415E431724A58F9F00824F44 /* NSDecimalNumber+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E431624A58F9F00824F44 /* NSDecimalNumber+Utilities.swift */; };
 		415E431C24A5AD7100824F44 /* ItemMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E431B24A5AD7100824F44 /* ItemMock.swift */; };
 		415E431E24A615F000824F44 /* TaxMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415E431D24A615F000824F44 /* TaxMock.swift */; };
 		41864D8624A4DDEE00B72006 /* BillEngine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41864D7C24A4DDEE00B72006 /* BillEngine.framework */; };
 		41864D8B24A4DDEE00B72006 /* BillGeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41864D8A24A4DDEE00B72006 /* BillGeneratorTests.swift */; };
 		41864D8D24A4DDEE00B72006 /* BillEngine.h in Headers */ = {isa = PBXBuildFile; fileRef = 41864D7F24A4DDEE00B72006 /* BillEngine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		41864D9724A50B7A00B72006 /* BillGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41864D9624A50B7A00B72006 /* BillGenerator.swift */; };
+		41960BE924A7A3ED00DD624B /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41960BE824A7A3ED00DD624B /* Box.swift */; };
+		41960BEC24A7A43D00DD624B /* NSDecimalNumber+Utilties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41960BEB24A7A43D00DD624B /* NSDecimalNumber+Utilties.swift */; };
 		41E53A8824A6954500C3CDCC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E53A8724A6954500C3CDCC /* AppDelegate.swift */; };
 		41E53A8A24A6954500C3CDCC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E53A8924A6954500C3CDCC /* SceneDelegate.swift */; };
 		41E53A8C24A6954500C3CDCC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E53A8B24A6954500C3CDCC /* ViewController.swift */; };
@@ -52,8 +52,6 @@
 		415E430A24A58A0F00824F44 /* ItemRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemRepresentable.swift; sourceTree = "<group>"; };
 		415E430C24A58B1200824F44 /* DiscountRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscountRepresentable.swift; sourceTree = "<group>"; };
 		415E431024A58D0400824F44 /* BillRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillRepresentable.swift; sourceTree = "<group>"; };
-		415E431324A58E9C00824F44 /* Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
-		415E431624A58F9F00824F44 /* NSDecimalNumber+Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSDecimalNumber+Utilities.swift"; sourceTree = "<group>"; };
 		415E431B24A5AD7100824F44 /* ItemMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemMock.swift; sourceTree = "<group>"; };
 		415E431D24A615F000824F44 /* TaxMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxMock.swift; sourceTree = "<group>"; };
 		41864D7C24A4DDEE00B72006 /* BillEngine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BillEngine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,6 +61,8 @@
 		41864D8A24A4DDEE00B72006 /* BillGeneratorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillGeneratorTests.swift; sourceTree = "<group>"; };
 		41864D8C24A4DDEE00B72006 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41864D9624A50B7A00B72006 /* BillGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillGenerator.swift; sourceTree = "<group>"; };
+		41960BE824A7A3ED00DD624B /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
+		41960BEB24A7A43D00DD624B /* NSDecimalNumber+Utilties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSDecimalNumber+Utilties.swift"; sourceTree = "<group>"; };
 		41E53A8524A6954500C3CDCC /* Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41E53A8724A6954500C3CDCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		41E53A8924A6954500C3CDCC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -136,24 +136,6 @@
 			path = OutputModel;
 			sourceTree = "<group>";
 		};
-		415E431224A58E9C00824F44 /* Binding */ = {
-			isa = PBXGroup;
-			children = (
-				415E431324A58E9C00824F44 /* Box.swift */,
-			);
-			name = Binding;
-			path = ../../TouchBistro/POS/Binding;
-			sourceTree = "<group>";
-		};
-		415E431524A58F9F00824F44 /* Extension */ = {
-			isa = PBXGroup;
-			children = (
-				415E431624A58F9F00824F44 /* NSDecimalNumber+Utilities.swift */,
-			);
-			name = Extension;
-			path = ../../TouchBistro/POS/Extension;
-			sourceTree = "<group>";
-		};
 		415E431A24A5AD5F00824F44 /* Mock */ = {
 			isa = PBXGroup;
 			children = (
@@ -189,8 +171,8 @@
 		41864D7E24A4DDEE00B72006 /* BillEngine */ = {
 			isa = PBXGroup;
 			children = (
-				415E431524A58F9F00824F44 /* Extension */,
-				415E431224A58E9C00824F44 /* Binding */,
+				41960BEA24A7A41F00DD624B /* Extension */,
+				41960BE724A7A3DE00DD624B /* Binding */,
 				415E430724A5894300824F44 /* Models */,
 				41864D7F24A4DDEE00B72006 /* BillEngine.h */,
 				41864D8024A4DDEE00B72006 /* Info.plist */,
@@ -207,6 +189,22 @@
 				41864D8C24A4DDEE00B72006 /* Info.plist */,
 			);
 			path = BillEngineTests;
+			sourceTree = "<group>";
+		};
+		41960BE724A7A3DE00DD624B /* Binding */ = {
+			isa = PBXGroup;
+			children = (
+				41960BE824A7A3ED00DD624B /* Box.swift */,
+			);
+			path = Binding;
+			sourceTree = "<group>";
+		};
+		41960BEA24A7A41F00DD624B /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				41960BEB24A7A43D00DD624B /* NSDecimalNumber+Utilties.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		41E53A8624A6954500C3CDCC /* Example */ = {
@@ -404,11 +402,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				415E430924A5895900824F44 /* TaxRepresentable.swift in Sources */,
+				41960BE924A7A3ED00DD624B /* Box.swift in Sources */,
+				41960BEC24A7A43D00DD624B /* NSDecimalNumber+Utilties.swift in Sources */,
 				415E430B24A58A0F00824F44 /* ItemRepresentable.swift in Sources */,
 				415E431124A58D0400824F44 /* BillRepresentable.swift in Sources */,
-				415E431424A58E9C00824F44 /* Box.swift in Sources */,
 				415E430D24A58B1200824F44 /* DiscountRepresentable.swift in Sources */,
-				415E431724A58F9F00824F44 /* NSDecimalNumber+Utilities.swift in Sources */,
 				41864D9724A50B7A00B72006 /* BillGenerator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
